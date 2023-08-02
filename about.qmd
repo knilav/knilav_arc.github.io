@@ -1,8 +1,8 @@
 ---
-title: "Thomas Rose"
+title: "Elena Bykova"
 about:
   id: template-area
-  template: jolla
+  template: solana
   image: profile.png
   links:
     - icon: twitter
@@ -23,20 +23,20 @@ about:
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+Here is the information about myself 
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Elena Bykova  
+666 Blumenstrasse  
+60438 Frankfurt am Main  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 6666 6666666  
+E-Mail: bykova [at] kristall.uni-frankfurt.de
 
 ## Privacy
 
