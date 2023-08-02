@@ -3,7 +3,7 @@ title: "Elena Bykova"
 about:
   id: template-area
   template: solana
-  image: profile.png
+  image: favicon.png
   links:
     - icon: twitter
       text: twitter
